@@ -5,19 +5,15 @@
 ---
 
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhzY29iMmVocXZ4MjY3anZ6cDExam90NXVtbThqcm50dTZ5MHY5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lzIciFHIqkZKTLu83b/giphy.gif" width="100%">
+<img src="https://www.image2url.com/r2/default/gifs/1789916967037-e0eb41a8-5cce-41f7-8c4a-4fa5aa329a1d.gif" width="100%">
 
 ---
 
 ### 🛠 Tech Stack
 <!-- ВАШИ ТЕХНОЛОГИИ -->
-<img src="https://skillicons.dev/icons?i=cs" alt="C#">
-<img src="https://skillicons.dev/icons?i=lua" alt="Lua">
-<img src="https://skillicons.dev/icons?i=html" alt="HTML">
-<img src="https://skillicons.dev/icons?i=css" alt="CSS">
-<img src="https://skillicons.dev/icons?i=blender" alt="Blender">
-<img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
-<img src="https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto">
+<img src="https://www.image2url.com/r2/default/gifs/1789916744949-51258931-629a-41c9-95e9-ea8ff0dc0e91.gif">
+<img src="https://www.image2url.com/r2/default/gifs/1789916912630-88cc7378-1891-4efe-a3f6-d4d65a8376d1.gif">
+<img src="https://www.image2url.com/r2/default/gifs/1789916938315-7c3e5357-4d94-4128-832a-413efe96fec6.gif">
 
 ---
 
