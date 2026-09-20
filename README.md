@@ -11,8 +11,8 @@
 
 ### 🛠 Tech Stack
 <!-- ВАШИ ТЕХНОЛОГИИ -->
-<img src="https://www.image2url.com/r2/default/gifs/1789916744949-51258931-629a-41c9-95e9-ea8ff0dc0e91.gif">
-<img src="https://www.image2url.com/r2/default/gifs/1789916912630-88cc7378-1891-4efe-a3f6-d4d65a8376d1.gif">
+<img src="https://www.image2url.com/r2/default/gifs/1789916744949-51258931-629a-41c9-95e9-ea8ff0dc0e91.gif" width="50%">
+<img src="https://www.image2url.com/r2/default/gifs/1789916912630-88cc7378-1891-4efe-a3f6-d4d65a8376d1.gif" width="50%">
 <img src="https://www.image2url.com/r2/default/gifs/1789916938315-7c3e5357-4d94-4128-832a-413efe96fec6.gif">
 
 ---
