@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=css" alt="CSS">
 <img src="https://skillicons.dev/icons?i=blender" alt="Blender">
 <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
-<img src="https://drive.google.com/file/d/1dT7yMfRYJjSI8oSR3NR2rh_1xTpYQsxq/view?usp=sharing">
+<img src="https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto">
 
 ---
 
