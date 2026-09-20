@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=css" alt="CSS">
 <img src="https://skillicons.dev/icons?i=blender" alt="Blender">
 <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
-<img src="https://www.image2url.com/r2/default/gifs/1789916744949-51258931-629a-41c9-95e9-ea8ff0dc0e91.gif">
+<img src="https://drive.google.com/file/d/1dT7yMfRYJjSI8oSR3NR2rh_1xTpYQsxq/view?usp=sharing">
 
 ---
 
