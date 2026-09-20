@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=css" alt="CSS">
 <img src="https://skillicons.dev/icons?i=blender" alt="Blender">
 <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
-<img src=<"https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk5MTY2MDQsIm5iZiI6MTc4OTkxNjMwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTIwVDE0NTgyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5YTRlZGQyNGJhOWQ1ZTUyOWY0ZmQwMzcwZjczODhjNmE0YmU3Y2FjNjQ3NDBhOTBhMmMyMGYxZWY1N2U0ZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.c1pg35mxMI1E3DqC2xRPCieW9af0eoNkCqq0Gl25lSs">
+<img src=<"https://drive.google.com/file/d/1dT7yMfRYJjSI8oSR3NR2rh_1xTpYQsxq/view?usp=drive_link">
 
 ---
 
