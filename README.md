@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👋 Sup, I'm L
+### 👋 Sup, I'm Nanami
 
 ---
 
