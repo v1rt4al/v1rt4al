@@ -18,11 +18,16 @@
 ---
 
 ### 📫 Contact me
-<p><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> Discord:@donalditrumpini (1163811548855279677)</p>
- <p><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> Telegram:@noobvplat (1163811548855279677) </p>
-p {
-text-align:centre;
-}
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></td>
+    <td>Discord: @donalditrumpini (1163811548855279677)</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></td>
+    <td>Telegram: @noobvplat (1163811548855279677)</td>
+  </tr>
+</table>
 
 ---
 
