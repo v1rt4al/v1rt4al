@@ -18,12 +18,9 @@
 ---
 
 ### 📫 Contact me
-<a href="https://discord.com/users/_v1rt4al">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://t.me/noobvplat">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+<p> Discord:@donalditrumpini (1163811548855279677) <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></p>
+ <p> Telegram:@noobvplat (1163811548855279677) <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></p>
+
 
 ---
 
