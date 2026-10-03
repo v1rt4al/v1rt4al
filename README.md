@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></td>
-    <td>Telegram: @noobvplat (1163811548855279677)</td>
+    <td>Telegram: @noobvplat</td>
   </tr>
 </table>
 
